@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Create a simple register form
 
-You can use the [editor on GitHub](https://github.com/ekansh-dwivedi/interview-exercise/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Requirements
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Use React / node to serve the form on GET http://localhost/register
+2. On submit should make a POST call to http://localhost/register
+3. The Node http://localhost/register API should accept the payload and respond back with a success message
+4. On success the UI should show the success message
 
-### Markdown
+### Bounty Points
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Form is ADA compliant
+2. Disabling JS on Browser should not impact the functionality
+3. Regex is implmeneted for the fields
 
-```markdown
-Syntax highlighted code block
+### Sample form
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ekansh-dwivedi/interview-exercise/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Sample Form](https://i.ibb.co/k4qgtfH/Screenshot-2022-03-23-at-3-29-32-PM.png)
