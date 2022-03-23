@@ -11,7 +11,7 @@
 
 1. Form is ADA compliant
 2. Disabling JS on Browser should not impact the functionality
-3. Regex is implmeneted for the fields
+3. Regex is implemented for the fields
 
 ### Sample form
 
