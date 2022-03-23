@@ -9,10 +9,10 @@
 
 ### Bounty Points
 
-1. Form is ADA compliant
+1. Regex validatation is implemented for the fields 
 2. Disabling JS on Browser should not impact the functionality
-3. Regex is implemented for the fields
+3. Form is ADA compliant
 
 ### Sample form
 
-![Sample Form](https://i.ibb.co/k4qgtfH/Screenshot-2022-03-23-at-3-29-32-PM.png)
+![Sample Form](https://i.ibb.co/Bf46m1z/Screenshot-2022-03-23-at-4-28-58-PM.png)
